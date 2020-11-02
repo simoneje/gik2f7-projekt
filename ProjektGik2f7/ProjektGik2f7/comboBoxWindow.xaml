@@ -1,0 +1,39 @@
+﻿<Window x:Class="ProjektGik2f7.comboBoxWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektGik2f7"
+        mc:Ignorable="d"
+        Title="Options" Height="150" Width="200">
+    <Grid Background="#FFFF8000">
+        <ComboBox x:Name="cmbOptions" Margin="0,45,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>
+                
+
+                    <TextBlock >Add new game</TextBlock>
+                
+            </ComboBoxItem>
+            <ComboBoxItem>
+                
+
+                    <TextBlock x:Name="hej" >Remove game</TextBlock>
+                
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+                
+
+                    <TextBlock >Edit game info</TextBlock>
+                
+            </ComboBoxItem>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Center" Margin="0,24,0,0" Text="Choose Feature" TextWrapping="Wrap" VerticalAlignment="Top" FontWeight="Bold"/>
+        <WrapPanel Margin="15" HorizontalAlignment="Center">
+
+
+        </WrapPanel>
+        <Button x:Name="comboExitBtn" Content="Cancel" HorizontalAlignment="Left" Margin="40,90,0,0" VerticalAlignment="Top" Click="comboExitBtn_Click"/>
+        <Button x:Name="comboOKbtn" Content="OK" HorizontalAlignment="Left" Margin="120,90,0,0" VerticalAlignment="Top" Width="39" Click="comboOKbtn_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+﻿<Window x:Class="ProjektGik2f7.editGameId"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektGik2f7"
+        mc:Ignorable="d"
+        Title="editGameId" Height="300" Width="300">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Margin="0,86,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,50,0,0" Text="Which game ID do you want to edit?" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="210,241,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="73,241,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

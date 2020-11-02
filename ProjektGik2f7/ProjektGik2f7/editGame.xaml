@@ -1,0 +1,33 @@
+﻿<Window x:Class="ProjektGik2f7.editGame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektGik2f7"
+        mc:Ignorable="d"
+        Title="editGame" Height="450" Width="400">
+    <Grid Background="#FFFF8000">
+        <GroupBox x:Name="editGameBox" Header="Edit Game info" HorizontalAlignment="Center" Height="345" VerticalAlignment="Center" Width="223">
+            <StackPanel Height="322" Margin="0,0,-2,0">
+                <TextBlock Margin="10" Text="ID" TextWrapping="Wrap" Width="166"/>
+                <TextBox x:Name="idEditInput" Text="" TextWrapping="Wrap" Width="167"/>
+
+                <TextBlock Margin="10" Text="Name" TextWrapping="Wrap" Width="166"/>
+                <TextBox x:Name="gNameEditInput"  Text="" TextWrapping="Wrap" Width="167"/>
+                <TextBlock Margin="10" Text="Description" TextWrapping="Wrap" Width="166"/>
+
+                <TextBox x:Name="gDescEditInput" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+                <TextBlock Margin="10" Text="Rating 1-10" TextWrapping="Wrap" Width="166"/>
+                <Slider x:Name="gradeSliderEdit" Maximum="10" Width="120" Cursor="Hand" SmallChange="2" TickPlacement="Both" IsSnapToTickEnabled="True"  Minimum="1">
+                    <Slider.Effect>
+                        <DropShadowEffect/>
+                    </Slider.Effect>
+                </Slider>
+                <TextBlock Text="{Binding Value, ElementName=gradeSlider, UpdateSourceTrigger=PropertyChanged}" TextWrapping="Wrap" Width="113" Height="51"/>
+                <Button x:Name="editGame1" Content="Save" HorizontalAlignment="Center" Margin="0,0,0,0" Width="66" Click="editGame1_Click"/>
+
+            </StackPanel>
+        </GroupBox>
+
+    </Grid>
+</Window>

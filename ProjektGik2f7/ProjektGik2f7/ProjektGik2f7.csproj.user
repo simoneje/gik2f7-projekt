@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Add Image.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="addGame.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="comboBoxWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="editGame.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="editGameId.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="removeWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Add Image.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="addGame.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="comboBoxWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="editGame.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="editGameId.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="removeWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

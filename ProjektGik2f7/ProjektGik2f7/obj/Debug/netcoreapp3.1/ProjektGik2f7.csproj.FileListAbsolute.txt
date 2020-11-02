@@ -1,0 +1,31 @@
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\bin\Debug\netcoreapp3.1\ProjektGik2f7.exe
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\bin\Debug\netcoreapp3.1\ProjektGik2f7.deps.json
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\bin\Debug\netcoreapp3.1\ProjektGik2f7.runtimeconfig.json
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\bin\Debug\netcoreapp3.1\ProjektGik2f7.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\bin\Debug\netcoreapp3.1\ProjektGik2f7.dll
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\bin\Debug\netcoreapp3.1\ProjektGik2f7.pdb
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7_MarkupCompile.cache
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7_MarkupCompile.lref
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.g.resources
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.AssemblyInfo.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.dll
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.pdb
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\ProjektGik2f7.genruntimeconfig.cache
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\removeWindow.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\removeWindow.baml
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\Add Image.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\Add Image.baml
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\comboBoxWindow.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\comboBoxWindow.baml
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\addGame.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\addGame.baml
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\editGame.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\editGame.baml
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\editGameId.g.cs
+C:\Users\Simon\source\repos\ProjektGik2f7\ProjektGik2f7\obj\Debug\netcoreapp3.1\editGameId.baml
